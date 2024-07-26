@@ -146,7 +146,7 @@ const Footer = () => {
                     </nav>
                   </div>
 
-                  <div className='w-full text-center sm:text-left'>
+                 {/*  <div className='w-full text-center sm:text-left'>
                     <p onClick={() => navigate('/contact-us')} className='text-lg font-medium text-gray-900'>Contact Us</p>
 
                     <ul className='mt-8 space-y-4 text-start text-sm'>
@@ -205,7 +205,7 @@ const Footer = () => {
                         </address>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
